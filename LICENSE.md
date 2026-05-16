@@ -1,4 +1,4 @@
-# 
+# quantitative NFT Mint Bot for nft trading bot | multi-chain-support & floor-sweeping is the best nft trading bot, featuring multi-chain-support and floor-sweeping. Fast, smart,
 
 
 
